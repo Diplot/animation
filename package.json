@@ -1,0 +1,32 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "project assembly",
+  "main": "index.js",
+  "scripts": {
+    "gulp:w": "gulp watch",
+    "webpack": "webpack",
+    "webpack:w": "webpack --watch",
+    "build": "gulp && webpack",
+    "watch": "npm-run-all --parallel gulp:w webpack:w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-tinypng-compress": "^1.2.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1",
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "npm-run-all": "^4.1.5",
+    "readable-stream": "^3.6.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
