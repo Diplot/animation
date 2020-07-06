@@ -18,4 +18,4 @@
     
 Команды:
 npm run build - сборка проекта;
-npm run watch - scss and js watcher.
+npm run watch - scss and js watcher.# project-foundation
