@@ -60,7 +60,7 @@
       <workItem from="1594835356672" duration="238000" />
       <workItem from="1595001065415" duration="137000" />
       <workItem from="1616137330094" duration="21205000" />
-      <workItem from="1616442554778" duration="2536000" />
+      <workItem from="1616442554778" duration="2825000" />
     </task>
     <task id="LOCAL-00001" summary="animation">
       <created>1616442909054</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616445682834</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rename img">
+      <created>1616446101490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616446101490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,10 +111,10 @@
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1931" y="247" key="#Notifications/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616442978717" />
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616445852083">
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616446108590">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616445852083" />
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616446108590" />
     <state x="1702" y="172" key="run.anything.popup" timestamp="1616147818441">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
