@@ -1,0 +1,117 @@
+.bg2{
+    background: url("../img/raspberry - BG.jpg");
+  width: 414px;
+  height: 736px;
+}
+.raspberry{
+    z-index: 2;
+    max-width: 360px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    
+}
+
+.raspberry-new{
+    height: 40px;
+    position: absolute;
+    z-index: 3;
+    left: 20px;
+    
+}
+
+.raspberry-product{
+    max-width: 200px;
+    max-height: 200px;
+    position: absolute;
+    top: 320px;
+    left: 100px;
+    z-index: 100;
+    animation-duration: 1s;
+    animation-name: slidein;
+}
+
+.lemon{
+    max-width: 155px;
+    position: absolute;
+    top: 425px;
+    left: 30px;
+    z-index: 1;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+    
+}
+.petal2{
+    max-width: 60px;
+    position: absolute;
+    top: 310px;
+    left: 70px;
+    z-index: 1;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+.petal3{
+    max-width: 60px;
+    position: absolute;
+    top: 418px;
+    left: 253px;
+    z-index: 1;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+
+.petal4{
+    max-width: 70px;
+    position: absolute;
+    top: 380px;
+    left: -20px;
+    z-index: 1;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+.petal5{
+    max-width: 90px;
+    position: absolute;
+    top: 270px;
+    right: -30px;
+    z-index: 1;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+.raspberry1{
+    max-width: 100px;
+    position: absolute;
+    top: 340px;
+    left: 227px;
+    z-index: 2;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+.raspberry2{
+    max-width: 90px;
+    position: absolute;
+    top: 280px;
+    left: 207px;
+    z-index: 2;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+.raspberry3{
+    max-width: 120px;
+    position: absolute;
+    top: 230px;
+    left: -30px;
+    z-index: 3;
+    animation-name: curious-grow;
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+
+
