@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4dab89-9f58-4ff6-818a-c9c91604b9e2" name="Default Changelist" comment="rename img" />
+    <list default="true" id="3b4dab89-9f58-4ff6-818a-c9c91604b9e2" name="Default Changelist" comment="rename img">
+      <change beforePath="$PROJECT_DIR$/src/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/second.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/second.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,7 @@
       <workItem from="1594835356672" duration="238000" />
       <workItem from="1595001065415" duration="137000" />
       <workItem from="1616137330094" duration="21205000" />
-      <workItem from="1616442554778" duration="2825000" />
+      <workItem from="1616442554778" duration="3099000" />
     </task>
     <task id="LOCAL-00001" summary="animation">
       <created>1616442909054</created>
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616446101490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rename img">
+      <created>1616446319871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616446319871</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +121,10 @@
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1931" y="247" key="#Notifications/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616442978717" />
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616446108590">
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616446326578">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616446108590" />
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616446326578" />
     <state x="1702" y="172" key="run.anything.popup" timestamp="1616147818441">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
