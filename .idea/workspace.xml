@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4dab89-9f58-4ff6-818a-c9c91604b9e2" name="Default Changelist" comment="animation" />
+    <list default="true" id="3b4dab89-9f58-4ff6-818a-c9c91604b9e2" name="Default Changelist" comment="rename img" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +60,7 @@
       <workItem from="1594835356672" duration="238000" />
       <workItem from="1595001065415" duration="137000" />
       <workItem from="1616137330094" duration="21205000" />
-      <workItem from="1616442554778" duration="2174000" />
+      <workItem from="1616442554778" duration="2536000" />
     </task>
     <task id="LOCAL-00001" summary="animation">
       <created>1616442909054</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616442909054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rename img">
+      <created>1616445682834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616445682834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,17 +96,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="animation" />
+    <MESSAGE value="rename img" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename img" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1931" y="247" key="#Notifications" timestamp="1616442978717">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1931" y="247" key="#Notifications/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616442978717" />
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616443072454">
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1616445852083">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616443072454" />
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1360.768@1366.0.1360.768" timestamp="1616445852083" />
     <state x="1702" y="172" key="run.anything.popup" timestamp="1616147818441">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
