@@ -14,14 +14,14 @@ gulp.task('watch', function(){
     gulp.watch( 'src/**/*.scss', gulp.series(['scss']));
 });
 
-gulp.task('tinypng', function () {
-    gulp.src('src/**/*.{png,jpg,jpeg}')
+/*gulp.task('tinypng', function () {
+    gulp.src('src/!**!/!*.{png,jpg,jpeg}')
         .pipe(tinypng({
             key: 'jWncWp7QkjTt22LnFmT0YKHRXtmLmC7W',
             sigFile: 'images/.tinypng-sigs',
             log: true
         }))
         .pipe(gulp.dest('dist/img'));
-});
+});*/
 
 gulp.task('default', gulp.series(['scss']));
